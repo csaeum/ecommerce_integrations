@@ -3,4 +3,4 @@
 *.egg-info
 *.swp
 tags
-ecommerce_integrations/docs/current
+ecommerce_integrations/docs/current*.iml
